@@ -311,7 +311,7 @@
         boards are always ignored. With OpenAI, I examined 1000+ board meeting
         files. And here's what they are talking about.
     </p>
-    <p style="margin-top: 20px">By Thomas Li</p>
+    <p style="margin-top: 20px">By <a href="https://www.linkedin.com/in/thomas-tao-li">Thomas Li</a></p>
     <p style="margin-top: 0px">Apr 20, 2024</p>
     <div style="margin-top: 90px;">
         <Arrow color="white" {animation}></Arrow>
